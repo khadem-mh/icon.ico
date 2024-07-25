@@ -1,1 +1,1 @@
-# Currently adding ico in a few hours
+# <p align="center">Hi 👋 I'm an expert on React Js 👨‍💻 Next JS</p>
